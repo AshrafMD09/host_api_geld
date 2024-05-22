@@ -1,0 +1,85 @@
+[
+    {
+        "month": "February 2024",
+        "salary": 8559,
+        "save": 2000,
+        "spend": [            
+            { "text" : "***","number" : 506, "date" : "01/02/2024"},
+            { "text" : "Spotify","number" : 36.26,"date" : "01/02/2024"},
+            { "text" : "***","number" : 306,"date" : "01/02/2024"},  
+            { "text" : "Phone Abo","number" : 99,"date" : "01/02/2024"},  
+            { "text" : "Wlan","number" : 500,"date" : "01/02/2024"},  
+            { "text" : "***","number" : 500,"date" : "01/02/2024"},  
+            { "text" : "Forsabildung","number" :1711 ,"date" : "01/02/2024"},  
+            { "text" : "Mother","number" :1500 ,"date" : "01/02/2024"},  
+            { "text" : "***","number" :300 ,"date" : "01/02/2024"},  
+            { "text" : "***","number" :516 ,"date" : "01/02/2024"},  
+            { "text" : "***","number" :500 ,"date" : "01/02/2024"}
+        ]
+    },
+    {
+        "month": "March 2024",
+        "salary": 8457,
+        "save": 3000,
+        "spend": [
+            { "text" : "Wlan","number" : 500 , "date" : "27/02/2024"},
+            { "text" : "Phone Abo","number" : 99 , "date" : "27/02/2024"},
+            { "text" : "***","number" : 400 , "date" : "29/02/2024"},
+            { "text" : "***","number" : 206 , "date" : "25/02/2024"},
+            { "text" : "Mother","number" : 1000 , "date" : "27/02/2024"},
+            { "text" : "Spotify","number" : 36.27 , "date" : "29/02/2024"},
+            { "text" : "Allo Pizza","number" : 65 , "date" : "03/03/2024"},
+            { "text" : "***","number" : 506 , "date" : "04/03/2024"},
+            { "text" : "***","number" : 300 , "date" : "09/03/2024"},
+            { "text" : "***","number" : 500 , "date" : "10/03/2024"},
+            { "text" : "***","number" : 500 , "date" : "13/03/2024"},
+            { "text" : "***","number" : 406 , "date" : "15/03/2024"},
+            { "text" : "Nasrdine Phone","number" : 49 , "date" : "19/03/2024"},
+            { "text" : "Malika Phone","number" : 49 , "date" : "19/03/2024"},
+            { "text" : "FC24","number" : 145.63 , "date" : "19/03/2024"},
+            { "text" : "***","number" : 306 , "date" : "22/03/2024"},
+            { "text" : "Canva","number" : 19 , "date" : "25/03/2024"} 
+        ]
+    },
+    {
+        "month": "April 2024",
+        "salary": 6410,
+        "save": 0,
+        "spend": [
+            { "text" : "Coffee caspules","number" : 103.85 , "date" : "28/03/2024"},
+            { "text" : "Cap","number" : 79 , "date" : "28/03/2024"},
+            { "text" : "Phone Abo","number" : 99 , "date" : "29/03/2024"},
+            { "text" : "Wlan","number" : 500 , "date" : "29/03/2024"},
+            { "text" : "Mother","number" : 1000 , "date" : "31/03/2024"},
+            { "text" : "Spotify","number" : 36.28 , "date" : "29/03/2024"},
+            { "text" : "T-shirt...","number" : 500 , "date" : "29/03/2024"},
+            { "text" : "***","number" : 1012 , "date" : "21/03/2024"},
+            { "text" : "Wlan","number" : 500 , "date" : "05/04/2024"},
+            { "text" : "***","number" : 1000 , "date" : "06/04/2024"},
+            { "text" : "***","number" : 706 , "date" : "09/04/2024"},
+            { "text" : "***","number" : 206 , "date" : "17/04/2024"},
+            { "text" : "***","number" : 300 , "date" : "19/04/2024"},
+            { "text" : "Nasrdine Phone","number" : 49 , "date" : "20/04/2024"},
+            { "text" : "***","number" : 306 , "date" : "23/04/2024"},
+            { "text" : "Dell Laptop","number" : 500 , "date" : "24/04/2024"}
+        ]
+    },
+    {
+        "month": "May 2024",
+        "salary": 8213,
+        "save": 2000,
+        "spend": [
+            { "text" : "Phone Abo","number" : 99 , "date" : "27/04/2024"},
+            { "text" : "500 Money ","number" : 1006 , "date" : "09/04/2024"},
+            { "text" : "Spotify","number" : 36.08 , "date" : "24/04/2024"},
+            { "text" : "Office Chair","number" : 1928 , "date" : "06/05/2024"},
+            { "text" : "***","number" : 300 , "date" : "06/05/2024"},
+            { "text" : "***","number" : 306 , "date" : "07/05/2024"},
+            { "text" : "Nasrdine Phone","number" : 49 , "date" : "14/05/2024"},
+            { "text" : "Wlan","number" : 500 , "date" : "14/05/2024"},
+            { "text" : "800, Tooth","number" : 1400 , "date" : "14/05/2024"},
+            { "text" : "***","number" : 406 , "date" : "14/05/2024"} 
+        ]
+    }
+
+]
