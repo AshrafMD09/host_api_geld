@@ -81,10 +81,7 @@
             { "text" : "***","number" : 406 , "date" : "14/05/2024"},
             { "text" : "Radio, coffee & Light ...","number" : 506 , "date" : "21/05/2024"},
             { "text" : "Noursaid Recharge","number" : 10 , "date" : "24/05/2024"},
-            { "text" : "***","number" : 306 , "date" : "27/05/2024"},
-            
-            
-
+            { "text" : "***","number" : 306 , "date" : "27/05/2024"}
         ]
     },
         {
@@ -97,7 +94,7 @@
             { "text" : "Zahn & Vater","number" : 3512 , "date" : "30/05/2024"},
             { "text" : "strom","number" : 472.45 , "date" : "31/05/2024"},
             { "text" : "Orange Abo","number" : 99 , "date" : "31/05/2024"},
-            { "text" : "***","number" : 500 , "date" : "04/06/2024"},
+            { "text" : "***","number" : 500 , "date" : "04/06/2024"}
         ]
     }
 
