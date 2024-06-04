@@ -79,8 +79,25 @@
             { "text" : "Wlan","number" : 500 , "date" : "14/05/2024"},
             { "text" : "800, Tooth","number" : 1400 , "date" : "14/05/2024"},
             { "text" : "***","number" : 406 , "date" : "14/05/2024"},
-            { "text" : "Radio, coffee & Light ...","number" : 506 , "date" : "21/05/2024"}
+            { "text" : "Radio, coffee & Light ...","number" : 506 , "date" : "21/05/2024"},
+            { "text" : "Noursaid Recharge","number" : 10 , "date" : "24/05/2024"},
+            { "text" : "***","number" : 306 , "date" : "27/05/2024"},
+            
+            
 
+        ]
+    },
+        {
+        "month": "June 2024",
+        "salary": 7171,
+        "save": 3000,
+        "spend": [
+            { "text" : "Mutter & ...","number" : 2006 , "date" : "28/05/2024"},
+            { "text" : "Spotify","number" : 36.21 , "date" : "29/05/2024"},
+            { "text" : "Zahn & Vater","number" : 3512 , "date" : "30/05/2024"},
+            { "text" : "strom","number" : 472.45 , "date" : "31/05/2024"},
+            { "text" : "Orange Abo","number" : 99 , "date" : "31/05/2024"},
+            { "text" : "***","number" : 500 , "date" : "04/06/2024"},
         ]
     }
 
