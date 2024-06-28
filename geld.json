@@ -94,7 +94,13 @@
             { "text" : "Zahn & Vater","number" : 3512 , "date" : "30/05/2024"},
             { "text" : "strom","number" : 472.45 , "date" : "31/05/2024"},
             { "text" : "Orange Abo","number" : 99 , "date" : "31/05/2024"},
-            { "text" : "***","number" : 500 , "date" : "04/06/2024"}
+            { "text" : "Bruder","number" : 500 , "date" : "04/06/2024"},
+            { "text" : "Wlan","number" : 500 , "date" : "07/06/2024"},
+            { "text" : "Bruder","number" : 400 , "date" : "13/06/2024"},
+            { "text" : "Bruder","number" : 400 , "date" : "15/06/2024"},
+            { "text" : "Nasrdine Phone","number" : 49 , "date" : "20/06/2024"},
+            { "text" : "Bruder","number" : 200 , "date" : "24/06/2024"},
+            { "text" : "Amendis","number" : 276.38 , "date" : "25/06/2024"}
         ]
     }
 
