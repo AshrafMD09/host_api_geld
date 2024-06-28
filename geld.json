@@ -87,11 +87,11 @@
         {
         "month": "June 2024",
         "salary": 7171,
-        "save": 3000,
+        "save": 0,
         "spend": [
             { "text" : "Mutter & ...","number" : 2006 , "date" : "28/05/2024"},
             { "text" : "Spotify","number" : 36.21 , "date" : "29/05/2024"},
-            { "text" : "Zahn & Vater","number" : 3512 , "date" : "30/05/2024"},
+            { "text" : "Zahn & Vater","number" : 512 , "date" : "30/05/2024"},
             { "text" : "strom","number" : 472.45 , "date" : "31/05/2024"},
             { "text" : "Orange Abo","number" : 99 , "date" : "31/05/2024"},
             { "text" : "Bruder","number" : 500 , "date" : "04/06/2024"},
@@ -101,6 +101,14 @@
             { "text" : "Nasrdine Phone","number" : 49 , "date" : "20/06/2024"},
             { "text" : "Bruder","number" : 200 , "date" : "24/06/2024"},
             { "text" : "Amendis","number" : 276.38 , "date" : "25/06/2024"}
+        ]
+    },
+        {
+        "month": "July 2024",
+        "salary": 7808,
+        "save": 0,
+        "spend": [
+            
         ]
     }
 
