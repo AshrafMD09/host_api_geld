@@ -110,13 +110,15 @@
         "spend": [
             { "text" : "Mutter","number" : 1000 , "date" : "29/06/2024"},
             { "text" : "Spotify","number" : 36.19 , "date" : "29/06/2024"},
-            { "text" : "Flug","number" : 563.58 , "date" : "30/06/2024"},
+            { "text" : "Flug Marrakech","number" : 563.58 , "date" : "30/06/2024"},
             { "text" : "Air Bnb","number" : 666.65 , "date" : "30/06/2024"},
             { "text" : "Bruder","number" : 1000 , "date" : "30/06/2024"},
             { "text" : "Phone Abo","number" : 99 , "date" : "03/07/2024"},
             { "text" : "Essaouira","number" : 46.56 , "date" : "06/07/2024"},
             { "text" : "Air bnb Marrakech","number" : 314.35 , "date" : "06/07/2024"},
-            { "text" : "Wlan","number" : 500 , "date" : "08/07/2024"}
+            { "text" : "Wlan","number" : 500 , "date" : "08/07/2024"},
+            { "text" : "Flug Tanger","number" : 563.58 , "date" : "09/07/2024"},
+            { "text" : "Hostel Imsouane","number" : 71.41 , "date" : "09/07/2024"}
         ]
     }
 
