@@ -118,7 +118,11 @@
             { "text" : "Air bnb Marrakech","number" : 314.35 , "date" : "06/07/2024"},
             { "text" : "Wlan","number" : 500 , "date" : "08/07/2024"},
             { "text" : "Flug Tanger","number" : 563.58 , "date" : "09/07/2024"},
-            { "text" : "Hostel Imsouane","number" : 71.41 , "date" : "09/07/2024"}
+            { "text" : "Reservation Hostel Imsouane","number" : 71.41 , "date" : "09/07/2024"},
+            { "text" : "Reservation Hostel Taghazout","number" : 67.40 , "date" : "12/07/2024"},
+            { "text" : "Sharifa","number" : 200 , "date" : "13/07/2024"},
+            { "text" : "Hostel Imsouane","number" : 410 , "date" : "13/07/2024"},
+            { "text" : "Bruder","number" : 1000 , "date" : "13/07/2024"}
         ]
     }
 
