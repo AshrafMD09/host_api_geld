@@ -122,7 +122,9 @@
             { "text" : "Reservation Hostel Taghazout","number" : 67.40 , "date" : "12/07/2024"},
             { "text" : "Sharifa","number" : 200 , "date" : "13/07/2024"},
             { "text" : "Hostel Imsouane","number" : 410 , "date" : "13/07/2024"},
-            { "text" : "Bruder","number" : 1000 , "date" : "13/07/2024"}
+            { "text" : "Bruder","number" : 1000 , "date" : "13/07/2024"},
+            { "text" : "ATM Taghazout","number" : 500 , "date" : "14/07/2024"},
+            { "text" : "CTM Essaouira","number" : 105 , "date" : "15/07/2024"}
         ]
     }
 
