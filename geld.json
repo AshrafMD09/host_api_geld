@@ -128,7 +128,9 @@
             { "text" : "***","number" : 506 , "date" : "17/07/2024"},
             { "text" : "Zaka's Ueberweisung","number" : 65 , "date" : "17/07/2024"},
             { "text" : "Bruder Abo","number" : 49 , "date" : "18/07/2024"},
-            { "text" : "Bruder","number" : 300 , "date" : "22/07/2024"}
+            { "text" : "Bruder","number" : 300 , "date" : "22/07/2024"},
+            { "text" : "Bruder","number" : 400 , "date" : "23/07/2024"},
+            { "text" : "Bodycam","number" : 183.25 , "date" : "24/07/2024"}
         ]
     }
 
