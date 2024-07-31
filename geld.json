@@ -132,6 +132,16 @@
             { "text" : "Bruder","number" : 400 , "date" : "23/07/2024"},
             { "text" : "Bodycam","number" : 183.25 , "date" : "24/07/2024"}
         ]
+    },
+        {
+        "month": "August 2024",
+        "salary": 6830,
+        "save": 0,
+        "spend": [
+            { "text" : "Spotify","number" : 36.18 , "date" : "29/07/2024"},
+            { "text" : "Phone Abo","number" : 99 , "date" : "31/07/2024"},
+            { "text" : "Mutter (Bro 13-07)","number" : 1000 , "date" : "31/07/2024"}
+        ]
     }
 
 ]
