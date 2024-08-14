@@ -87,7 +87,7 @@
         {
         "month": "June 2024",
         "salary": 7171,
-        "save": 0,
+        "save": 1000,
         "spend": [
             { "text" : "Mutter & ...","number" : 2006 , "date" : "28/05/2024"},
             { "text" : "Spotify","number" : 36.21 , "date" : "29/05/2024"},
