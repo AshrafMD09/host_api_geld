@@ -146,8 +146,11 @@
             { "text" : "WLAN","number" : 500, "date" : "09/08/2024"},
             { "text" : "Bruder","number" : 200, "date" : "09/08/2024"},
             { "text" : "Bruder","number" : 400, "date" : "10/08/2024"},
-            { "text" : "Bruder","number" : 300, "date" : "14/08/2024"},
-            { "text" : "Defacto","number" : 404, "date" : "14/08/2024"}
+            { "text" : "Bruder","number" : 306, "date" : "14/08/2024"},
+            { "text" : "Defacto","number" : 498, "date" : "14/08/2024"},      
+            { "text" : "***","number" : 200, "date" : "14/08/2024"},
+            { "text" : "***","number" : 100, "date" : "17/08/2024"},
+            { "text" : "***","number" : 306, "date" : "18/08/2024"}
             
         ]
     }
