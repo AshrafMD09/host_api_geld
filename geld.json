@@ -136,7 +136,7 @@
         {
         "month": "August 2024",
         "salary": 6830,
-        "save": 2000,
+        "save": 0,
         "spend": [
             { "text" : "Spotify","number" : 36.18 , "date" : "29/07/2024"},
             { "text" : "Phone Abo","number" : 99 , "date" : "31/07/2024"},
@@ -152,10 +152,21 @@
             { "text" : "***","number" : 100, "date" : "17/08/2024"},
             { "text" : "***","number" : 306, "date" : "18/08/2024"},
             { "text" : "***","number" : 306, "date" : "22/08/2024"},
+            { "text" : "Amendis","number" : 471.83, "date" : "23/08/2024"},
+            { "text" : "Leash","number" : 140, "date" : "24/08/2024"},
+            { "text" : "Trip Sidi Mghait","number" : 1010, "date" : "26/08/2024"}
+        ]
+    },
 
-            { "text" : "Amendis","number" : 471.83, "date" : "23/08/2024"}
-            
-            
+     {
+        "month": "September 2024",
+        "salary": 8045,
+        "save": 0,
+        "spend": [
+            { "text" : "Spotify","number" : 41.43 , "date" : "29/08/2024"},
+            { "text" : "G pro","number" : 500 , "date" : "30/08/2024"},
+            { "text" : "Mutter 1000","number" : 300 , "date" : "30/08/2024"},
+            { "text" : "Phone Abo","number" : 98 , "date" : "31/08/2024"}
         ]
     }
 
