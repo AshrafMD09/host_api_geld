@@ -136,7 +136,7 @@
         {
         "month": "August 2024",
         "salary": 6830,
-        "save": 0,
+        "save": 1000,
         "spend": [
             { "text" : "Spotify","number" : 36.18 , "date" : "29/07/2024"},
             { "text" : "Phone Abo","number" : 99 , "date" : "31/07/2024"},
