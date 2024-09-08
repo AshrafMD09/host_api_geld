@@ -161,14 +161,16 @@
      {
         "month": "September 2024",
         "salary": 8045,
-        "save": 0,
+        "save": 2000,
         "spend": [
             { "text" : "Spotify","number" : 41.43 , "date" : "29/08/2024"},
             { "text" : "G pro","number" : 500 , "date" : "30/08/2024"},
             { "text" : "Mutter 1000","number" : 300 , "date" : "30/08/2024"},
             { "text" : "Phone Abo","number" : 98 , "date" : "31/08/2024"},
             { "text" : "***","number" : 506 , "date" : "01/09/2024"},
-            { "text" : "bruder transfer","number" : 1000 , "date" : "04/09/2024"}
+            { "text" : "bruder transfer","number" : 1000 , "date" : "04/09/2024"},
+            { "text" : "WLAN","number" : 500 , "date" : "08/09/2024"}
+            
             
             
         ]
