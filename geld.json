@@ -185,12 +185,17 @@
        "salary": 7302,
        "save": 0,
        "spend": [
-           { "text" : "Mevok","number" : 1000 , "date" : "25/08/2024"},
-           { "text" : "Mevok","number" : 200 , "date" : "28/08/2024"},
-           { "text" : "Spotify","number" : 41.37 , "date" : "29/08/2024"},
-           { "text" : "Bro 1000","number" : 0 , "date" : "29/08/2024"},
-           { "text" : "***","number" : 1000 , "date" : "29/08/2024"},
-           { "text" : "Phone Abo","number" : 90 , "date" : "30/08/2024"}
+           { "text" : "Mevok","number" : 1000 , "date" : "25/09/2024"},
+           { "text" : "Mevok","number" : 200 , "date" : "28/09/2024"},
+           { "text" : "Spotify","number" : 41.37 , "date" : "29/09/2024"},
+           { "text" : "Bro 1000","number" : 0 , "date" : "29/09/2024"},
+           { "text" : "***","number" : 1000 , "date" : "29/09/2024"},
+           { "text" : "Phone Abo","number" : 90 , "date" : "30/09/2024"},
+           { "text" : "***","number" : 1006 , "date" : "01/10/2024"},
+           { "text" : "Mehdi Train","number" : 230 , "date" : "02/10/2024"},
+           { "text" : "Milk & Honey","number" : 294 , "date" : "04/10/2024"},
+           { "text" : "WLAN","number" : 500 , "date" : "05/10/2024"}
+
 
        ]
     }
