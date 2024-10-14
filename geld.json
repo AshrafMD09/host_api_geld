@@ -194,9 +194,13 @@
            { "text" : "***","number" : 1006 , "date" : "01/10/2024"},
            { "text" : "Mehdi Train","number" : 230 , "date" : "02/10/2024"},
            { "text" : "Milk & Honey","number" : 294 , "date" : "04/10/2024"},
-           { "text" : "WLAN","number" : 500 , "date" : "05/10/2024"}
-
-
+           { "text" : "WLAN","number" : 500 , "date" : "05/10/2024"},
+           { "text" : "TIKI TAPAS","number" : 285 , "date" : "07/10/2024"},
+           { "text" : "BLUSSOM","number" : 345 , "date" : "08/10/2024"},
+           { "text" : "Guitar","number" : 300 , "date" : "10/10/2024"}
+           
+           
+           
        ]
     }
 ]
