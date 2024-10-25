@@ -197,7 +197,10 @@
            { "text" : "WLAN","number" : 500 , "date" : "05/10/2024"},
            { "text" : "TIKI TAPAS","number" : 285 , "date" : "07/10/2024"},
            { "text" : "BLUSSOM","number" : 345 , "date" : "08/10/2024"},
-           { "text" : "Guitar","number" : 300 , "date" : "10/10/2024"}
+           { "text" : "Guitar","number" : 300 , "date" : "10/10/2024"},
+           { "text" : "Marjane","number" : 256.85 , "date" : "19/10/2024"},
+           { "text" : "Tamaris Guichet","number" : 1000 , "date" : "22/10/2024"},
+           { "text" : "CTM Casa Tanger","number" : 290 , "date" : "25/10/2024"}
            
            
            
