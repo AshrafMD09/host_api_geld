@@ -205,5 +205,21 @@
            
            
        ]
-    }
+    },
+         {
+        "month": "November 2024",
+        "salary": 6972,
+        "save": 0,
+        "spend": [
+            { "text" : "Spotify","number" : 41.38 , "date" : "29/10/2024"},
+            { "text" : "Cactus Hotel","number" : 2427.50 , "date" : "03/11/2024"},
+            { "text" : "Essaouira bank cash","number" : 1006 , "date" : "04/11/2024"},
+            { "text" : "Phone Abo","number" : 99 , "date" : "04/11/2024"},
+            { "text" : "Recharge Orange","number" : 25 , "date" : "04/11/2024"},
+            { "text" : "Markoub.ma to Casa","number" : 210 , "date" : "04/11/2024"},
+            { "text" : "Train to Tanger","number" : 330 , "date" : "05/11/2024"},
+            { "text" : "***","number" : 306 , "date" : "09/11/2024"},
+            { "text" : "WLAN","number" : 500 , "date" : "12/11/2024"}
+        ]
+     }
 ]
