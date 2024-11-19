@@ -200,9 +200,9 @@
            { "text" : "Guitar","number" : 300 , "date" : "10/10/2024"},
            { "text" : "Marjane","number" : 256.85 , "date" : "19/10/2024"},
            { "text" : "Tamaris Guichet","number" : 1000 , "date" : "22/10/2024"},
-           { "text" : "CTM Casa Tanger","number" : 290 , "date" : "25/10/2024"}
-           
-           
+           { "text" : "CTM Casa Tanger","number" : 290 , "date" : "25/10/2024"},
+           { "text" : "****","number" : 1006 , "date" : "26/10/2024"},
+           { "text" : "****","number" : 699.06 , "date" : "26/10/2024"}
            
        ]
     },
@@ -219,7 +219,9 @@
             { "text" : "Markoub.ma to Casa","number" : 210 , "date" : "04/11/2024"},
             { "text" : "Train to Tanger","number" : 330 , "date" : "05/11/2024"},
             { "text" : "***","number" : 306 , "date" : "09/11/2024"},
-            { "text" : "WLAN","number" : 500 , "date" : "12/11/2024"}
+            { "text" : "WLAN","number" : 500 , "date" : "12/11/2024"},
+            { "text" : "Mehdi's geld","number" : 117 , "date" : "16/11/2024"},
+            { "text" : "Allo Pizza","number" : 135 , "date" : "17/11/2024"}
         ]
      }
 ]
