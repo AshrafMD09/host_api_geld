@@ -220,8 +220,12 @@
             { "text" : "Train to Tanger","number" : 330 , "date" : "05/11/2024"},
             { "text" : "***","number" : 306 , "date" : "09/11/2024"},
             { "text" : "WLAN","number" : 500 , "date" : "12/11/2024"},
-            { "text" : "Mehdi's geld","number" : 117 , "date" : "16/11/2024"},
-            { "text" : "Allo Pizza","number" : 135 , "date" : "17/11/2024"}
+            { "text" : "Mehdi's geld","number" : 133.5 , "date" : "16/11/2024"},
+            { "text" : "Allo Pizza","number" : 135 , "date" : "17/11/2024"},
+            { "text" : "***","number" : 200 , "date" : "20/11/2024"},
+            { "text" : "Amendis","number" : 300.28 , "date" : "21/11/2024"}
+            
+            
         ]
      }
 ]
