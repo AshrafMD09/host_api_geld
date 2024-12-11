@@ -238,7 +238,11 @@
             { "text" : "Bruder","number" : 400 , "date" : "01/12/2024"},
             { "text" : "Amendis","number" : 150.13 , "date" : "03/12/2024"},
             { "text" : "Phone Abo","number" : 90 , "date" : "03/12/2024"},
-            { "text" : "***","number" : 500 , "date" : "03/12/2024"}
+            { "text" : "***","number" : 500 , "date" : "03/12/2024"},
+            { "text" : "***","number" : 500 , "date" : "0/12/2024"},
+            { "text" : "WLAN","number" : 500 , "date" : "0/12/2024"}
+            
+            
         ]
      }
 ]
