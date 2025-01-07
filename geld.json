@@ -242,11 +242,23 @@
             { "text" : "***","number" : 500 , "date" : "05/12/2024"},
             { "text" : "WLAN","number" : 500 , "date" : "11/12/2024"},
             { "text" : "Ripcurl","number" : 850 , "date" : "13/12/2024"},
-            { "text" : "***","number" : 500 , "date" : "15/12/2024"}
-            
-            
-            
-            
+            { "text" : "***","number" : 500 , "date" : "15/12/2024"},
+            { "text" : "***","number" : 300 , "date" : "23/12/2024"},
+            { "text" : "Flight to Mirleft","number" : 153.02 , "date" : "26/12/2024"},
+            { "text" : "***","number" : 300, "date" : "27/12/2024"} 
+        ]
+     },
+         {
+        "month": "January 2025",
+        "salary": 7020,
+        "save": 0,
+        "spend": [
+            { "text" : "Spotify","number" : 41.32 , "date" : "29/12/2024"},
+            { "text" : "Phone Abo","number" : 89 , "date" : "02/01/2025"},
+            { "text" : "***","number" : 1000 , "date" : "04/01/2025"},
+            { "text" : "WLAN","number" : 500 , "date" : "05/01/2025"},
+            { "text" : "***","number" : 750 , "date" : "05/01/2025"},
+            { "text" : "???","number" : 500 , "date" : "05/01/2025"}
         ]
      }
 ]
