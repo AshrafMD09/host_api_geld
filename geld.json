@@ -258,7 +258,8 @@
             { "text" : "***","number" : 1000 , "date" : "04/01/2025"},
             { "text" : "WLAN","number" : 500 , "date" : "05/01/2025"},
             { "text" : "***","number" : 750 , "date" : "05/01/2025"},
-            { "text" : "???","number" : 500 , "date" : "05/01/2025"}
+            { "text" : "???","number" : 500 , "date" : "05/01/2025"},
+            { "text" : "Dania Surf Hostel","number" : 2016.50 , "date" : "09/01/2025"}
         ]
      }
 ]
