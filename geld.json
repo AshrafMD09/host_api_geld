@@ -247,19 +247,33 @@
             { "text" : "Flight to Mirleft","number" : 153.02 , "date" : "26/12/2024"},
             { "text" : "***","number" : 300, "date" : "27/12/2024"} 
         ]
-     },
-         {
-        "month": "January 2025",
-        "salary": 7020,
-        "save": 0,
-        "spend": [
-            { "text" : "Spotify","number" : 41.32 , "date" : "29/12/2024"},
-            { "text" : "Phone Abo","number" : 89 , "date" : "02/01/2025"},
-            { "text" : "***","number" : 1000 , "date" : "04/01/2025"},
-            { "text" : "WLAN","number" : 500 , "date" : "05/01/2025"},
-            { "text" : "***","number" : 750 , "date" : "05/01/2025"},
-            { "text" : "???","number" : 500 , "date" : "05/01/2025"},
-            { "text" : "Dania Surf Hostel","number" : 2016.50 , "date" : "09/01/2025"}
-        ]
-     }
+     }     {
+    "month": "January 2025",
+    "salary": 7020,
+    "save": 0,
+    "spend": [
+        { "text" : "Spotify","number" : 41.32 , "date" : "29/12/2024"},
+        { "text" : "Phone Abo","number" : 89 , "date" : "02/01/2025"},
+        { "text" : "***","number" : 1000 , "date" : "04/01/2025"},
+        { "text" : "WLAN","number" : 500 , "date" : "05/01/2025"},
+        { "text" : "***","number" : 750 , "date" : "05/01/2025"},
+        { "text" : "***","number" : 500 , "date" : "05/01/2025"},
+        { "text" : "Dania Surf Hostel","number" : 2016.50 , "date" : "09/01/2025"},
+        { "text" : "***","number" : 1006 , "date" : "16/01/2025"},
+        { "text" : "***","number" : 100 , "date" : "20/01/2025"},
+        { "text" : "Flight to Tangier","number" : 210.65 , "date" : "21/01/2025"},
+        { "text" : "Dotation","number" : 50 , "date" : "24/01/2025"},
+        { "text" : "1000","number" : 506 , "date" : "25/01/2025"},
+        { "text" : "***","number" : 200 , "date" : "27/01/2025"}
+    ]
+ },
+ {
+    "month": "February 2025",
+    "salary": 6430,
+    "save": 0,
+    "spend": [
+        { "text" : "1000","number" : 500 , "date" : "25/01/2025"},
+        { "text" : "Spotify","number" : 41.36 , "date" : "29/01/2025"}
+    ]
+ }
 ]
