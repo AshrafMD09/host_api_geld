@@ -273,7 +273,41 @@
     "save": 0,
     "spend": [
         { "text" : "1000","number" : 500 , "date" : "25/01/2025"},
-        { "text" : "Spotify","number" : 41.36 , "date" : "29/01/2025"}
+        { "text" : "Spotify","number" : 41.36 , "date" : "29/01/2025"},
+        { "text" : "Phone Abo","number" : 89 , "date" : "02/02/2025"},
+        { "text" : "Oualid","number" : 170 , "date" : "04/02/2025"},
+        { "text" : "***","number" : 2006 , "date" : "05/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "06/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "07/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "10/02/2025"},
+        { "text" : "Prime cs","number" : 155.48 , "date" : "11/02/2025"},
+        { "text" : "WLAN","number" : 500 , "date" : "11/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "11/02/2025"},
+        { "text" : "500","number" : 200 , "date" : "13/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "13/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "15/02/2025"},
+        { "text" : "Tway","number" : 14 , "date" : "17/02/2025"},
+        { "text" : "***","number" : 1006 , "date" : "17/02/2025"},
+        { "text" : "cs keys","number" : 51.62 , "date" : "18/02/2025"},
+        { "text" : "Markoub.ma","number" : 84.20 , "date" : "20/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "20/02/2025"},
+        { "text" : "Tway","number" : 8 , "date" : "20/02/2025"},
+        { "text" : "TGV","number" : 290 , "date" : "23/02/2025"},
+        { "text" : "***","number" : 506 , "date" : "23/02/2025"},
+        { "text" : "***","number" : 506 , "date" : "25/02/2025"},
+        { "text" : "Tradeit.gg","number" : 55.91 , "date" : "25/02/2025"}
+    ]
+ },
+ {
+    "month": "March 2025",
+    "salary": 7318,
+    "save": 0,
+    "spend": [
+        { "text" : "Spotify","number" : 41.53 , "date" : "28/02/2025"},
+        { "text" : "***","number" : 500 , "date" : "05/03/2025"},
+        { "text" : "WLAN Orange","number" : 123.10 , "date" : "05/03/2025"},
+        { "text" : "Phone Abo","number" : 90 , "date" : "06/03/2025"}
+
     ]
  }
 ]
