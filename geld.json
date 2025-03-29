@@ -300,14 +300,22 @@
  },
  {
     "month": "March 2025",
-    "salary": 7318,
+    "salary": 7528,
     "save": 0,
     "spend": [
         { "text" : "Spotify","number" : 41.53 , "date" : "28/02/2025"},
         { "text" : "***","number" : 500 , "date" : "05/03/2025"},
         { "text" : "WLAN Orange","number" : 123.10 , "date" : "05/03/2025"},
-        { "text" : "Phone Abo","number" : 90 , "date" : "06/03/2025"}
-
+        { "text" : "Phone Abo","number" : 90 , "date" : "06/03/2025"},
+        { "text" : "Wasser Rechnung","number" : 76.99 , "date" : "07/03/2025"},
+        { "text" : "***","number" : 500 , "date" : "07/03/2025"},
+        { "text" : "***","number" : 1006 , "date" : "09/03/2025"},
+        { "text" : "Rent","number" : 1165.50 , "date" : "14/03/2025"},
+        { "text" : "Steam","number" : 50.25 , "date" : "15/03/2025"},
+        { "text" : "WLAN","number" : 500 , "date" : "16/03/2025"},
+        { "text" : "WLAN 500","number" : 200 , "date" : "16/03/2025"},
+        { "text" : "***","number" : 1006 , "date" : "24/03/2025"},
+        { "text" : "TGV","number" : 270 , "date" : "27/03/2025"}
     ]
  }
 ]
