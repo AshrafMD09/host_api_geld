@@ -317,5 +317,13 @@
         { "text" : "***","number" : 1006 , "date" : "24/03/2025"},
         { "text" : "TGV","number" : 270 , "date" : "27/03/2025"}
     ]
+ },
+     {
+    "month": "April 2025",
+    "salary": 3912,
+    "save": 0,
+    "spend": [
+        { "text" : "Spotify","number" : 41.58 , "date" : "29/03/2025"}
+    ]
  }
 ]
